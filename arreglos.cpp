@@ -2,6 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// que hubo perrito
+
 int sumaarr(int arr[], int n){
 	int suma=0;
 	for(int i = 0; i < n; suma += arr[i++]);
