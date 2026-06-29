@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// que hubo perrito
+// hable
 
 int sumaarr(int arr[], int n){
 	int suma=0;
